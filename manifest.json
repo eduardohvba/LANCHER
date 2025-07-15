@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "path": "data/file1.txt",
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "data/file2.png",
+      "hash": "d2d2d2e2e2e2e2d2d2e2e2e2d2d2e2e2e2d2d2e2e2e2d2d2e2e2e2d2d2e2e2"
+    },
+    {
+      "path": "assets/image.jpg",
+      "hash": "15f0c7d8e1cfb1d7a124ebd9f1e7d7a1c0e4abf6b6a132d0b1bbd6f6a89b8a9a"
+    }
+  ]
+}
