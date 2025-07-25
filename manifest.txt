@@ -6,4 +6,3 @@
 "data/GetMainInfo4.zip" "83bd58bb877b7d04" 12259865
 "data/GetMainInfo5.zip" "83bd58bb877b7d04" 12259865
 "data/GetMainInfo6.zip" "83bd58bb877b7d04" 12259865
-"Launcher.exe" "a20ce3f9f8ca7a8a" 5302300
